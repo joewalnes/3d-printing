@@ -17,7 +17,7 @@ upside_down = true;
 
 // Special OpenSCAD variable for arc segments in cylinders/spheres.
 // 6 for fast renders, 24 for smooth renders
-$fn = 12;
+$fn = 24;
 
 // Smooth outer edges: Looks nicer, but slows down rendering
 smooth_outer_edges = true;
